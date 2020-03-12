@@ -1,0 +1,98 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"K.Lahari Priya",
+                "email":"laharipriyakrosuri@gmail.com",
+                "mobile":"+91 6498759800"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90%",
+                    "institute":"Oxford public school"
+                },
+                {
+                    "degree":"Intermediate-(MPC)",
+                    "percentage":"89%",
+                    "institute":"Bhashyam junior college"
+                },
+                {
+                    "degree":"B.Tech-(CSE)",
+                    "percentage":"80%",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+
+                    "type":"Programmin Languages",
+                    "values":["C","C++","Java","Python","ADA"]
+                },
+                    {
+    
+                        "type":"Web Technologies",
+                        "values":["HTML","CSS","Java Script"]
+                    },
+                        {
+        
+                            "type":"FrameWorks and Libraries",
+                            "values":["ReactJs"]
+                        },
+                            {
+            
+                                "type":"Operating Systems",
+                                "values":["Windows","Linux"]
+                            }
+                        ]
+        },
+        {
+            "basics":{
+                "name":"K.Bindhu",
+                "email":"himabindhu9490@gmail.com",
+                "mobile":"+91 6497893215"
+            },
+            "education":[
+                {
+                    "degree":"S.S.C",
+                    "percentage":"90%",
+                    "institute":"SSC public school"
+                },
+                {
+                    "degree":"Diploma-(CSE)",
+                    "percentage":"89%",
+                    "institute":"CR polytechnique"
+                },
+                {
+                    "degree":"B.Tech-(CSE)",
+                    "percentage":"80%",
+                    "institute":"VVIT"
+                }
+            ],
+            "skills":[
+                {
+
+                    "type":"Programmin Languages",
+                    "values":["C","C++","Java","Python","ADA"]
+                },
+                    {
+    
+                        "type":"Web Technologies",
+                        "values":["HTML","CSS","Java Script"]
+                    },
+                        {
+        
+                            "type":"FrameWorks and Libraries",
+                            "values":["ReactJs"]
+                        },
+                            {
+            
+                                "type":"Operating Systems",
+                                "values":["Windows","Linux"]
+                            }
+                        ]
+            
+
+        }
+    ]
+}
